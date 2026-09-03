@@ -32,7 +32,7 @@ import yfinance as yf
 # AYARLAR
 # ============================================================
 
-NTFY_TOPIC = "buraya-kendi-gizli-bist-konu-adinizi-yazin-4471"
+NTFY_TOPIC = "osman-bist-100-efe"
 
 # Büyük/likit BIST hisseleri (siz ekleyip çıkarabilirsiniz, .IS uzantısı ile)
 BIST_TICKERS = [
