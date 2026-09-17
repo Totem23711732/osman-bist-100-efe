@@ -1,248 +1,250 @@
 {
   "GARAN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:53 UTC"
+    "last_checked": "2026-09-17 14:44:21 UTC"
   },
   "AKBNK.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:54 UTC"
+    "last_checked": "2026-09-17 14:44:21 UTC"
   },
   "ISCTR.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:54 UTC"
+    "last_checked": "2026-09-17 14:44:22 UTC"
   },
   "YKBNK.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:55 UTC"
+    "last_checked": "2026-09-17 14:44:23 UTC"
   },
   "VAKBN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:56 UTC"
+    "last_checked": "2026-09-17 14:44:24 UTC"
   },
   "HALKB.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:57 UTC"
+    "last_checked": "2026-09-17 14:44:24 UTC"
   },
   "TSKB.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:57 UTC"
+    "last_checked": "2026-09-17 14:44:25 UTC",
+    "last_signal": "BUY"
   },
   "KCHOL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:58 UTC"
+    "last_checked": "2026-09-17 14:44:26 UTC"
   },
   "SAHOL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:22:59 UTC"
+    "last_checked": "2026-09-17 14:44:27 UTC"
   },
   "SISE.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:00 UTC"
+    "last_checked": "2026-09-17 14:44:27 UTC"
   },
   "DOAS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:00 UTC"
+    "last_checked": "2026-09-17 14:44:28 UTC"
   },
   "ALARK.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:01 UTC"
+    "last_checked": "2026-09-17 14:44:29 UTC"
   },
   "ENKAI.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:02 UTC",
+    "last_checked": "2026-09-17 14:44:29 UTC",
     "last_signal": "BUY"
   },
   "TAVHL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:03 UTC"
+    "last_checked": "2026-09-17 14:44:30 UTC"
   },
   "EREGL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:03 UTC"
+    "last_checked": "2026-09-17 14:44:31 UTC"
   },
   "KRDMD.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:04 UTC"
+    "last_checked": "2026-09-17 14:44:31 UTC"
   },
   "ISDMR.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:07 UTC"
+    "last_checked": "2026-09-17 14:44:34 UTC"
   },
   "TUPRS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:08 UTC"
+    "last_checked": "2026-09-17 14:44:35 UTC"
   },
   "PETKM.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:09 UTC"
+    "last_checked": "2026-09-17 14:44:35 UTC"
   },
   "AYGAZ.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:10 UTC"
+    "last_checked": "2026-09-17 14:44:36 UTC"
   },
   "GUBRF.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:10 UTC"
+    "last_checked": "2026-09-17 14:44:37 UTC"
   },
   "AKSEN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:11 UTC"
+    "last_checked": "2026-09-17 14:44:37 UTC"
   },
   "ODAS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:12 UTC"
+    "last_checked": "2026-09-17 14:44:38 UTC"
   },
   "ZOREN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:12 UTC",
+    "last_checked": "2026-09-17 14:44:39 UTC",
     "last_signal": "BUY"
   },
   "ENJSA.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:13 UTC"
+    "last_checked": "2026-09-17 14:44:39 UTC"
   },
   "ASELS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:14 UTC"
+    "last_checked": "2026-09-17 14:44:40 UTC"
   },
   "THYAO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:14 UTC"
+    "last_checked": "2026-09-17 14:44:41 UTC"
   },
   "TTKOM.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:15 UTC"
+    "last_checked": "2026-09-17 14:44:41 UTC"
   },
   "TCELL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:16 UTC"
+    "last_checked": "2026-09-17 14:44:42 UTC"
   },
   "LOGO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:16 UTC"
+    "last_checked": "2026-09-17 14:44:43 UTC"
   },
   "NETAS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:17 UTC"
+    "last_checked": "2026-09-17 14:44:43 UTC"
   },
   "BIMAS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:18 UTC"
+    "last_checked": "2026-09-17 14:44:44 UTC"
   },
   "MGROS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:19 UTC"
+    "last_checked": "2026-09-17 14:44:45 UTC"
   },
   "SOKM.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:19 UTC"
+    "last_checked": "2026-09-17 14:44:45 UTC"
   },
   "VESTL.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:20 UTC"
+    "last_checked": "2026-09-17 14:44:46 UTC"
   },
   "ARCLK.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:21 UTC"
+    "last_checked": "2026-09-17 14:44:47 UTC"
   },
   "TTRAK.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:21 UTC"
+    "last_checked": "2026-09-17 14:44:47 UTC"
   },
   "ULKER.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:22 UTC"
+    "last_checked": "2026-09-17 14:44:48 UTC"
   },
   "CCOLA.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:23 UTC"
+    "last_checked": "2026-09-17 14:44:49 UTC",
+    "last_signal": "BUY"
   },
   "AEFES.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:23 UTC"
+    "last_checked": "2026-09-17 14:44:49 UTC"
   },
   "TATGD.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:24 UTC"
+    "last_checked": "2026-09-17 14:44:50 UTC"
   },
   "KENT.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:25 UTC"
+    "last_checked": "2026-09-17 14:44:51 UTC"
   },
   "CIMSA.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:26 UTC"
+    "last_checked": "2026-09-17 14:44:51 UTC"
   },
   "AKCNS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:26 UTC"
+    "last_checked": "2026-09-17 14:44:52 UTC"
   },
   "BUCIM.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:27 UTC"
+    "last_checked": "2026-09-17 14:44:52 UTC"
   },
   "EKGYO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:28 UTC"
+    "last_checked": "2026-09-17 14:44:53 UTC"
   },
   "ISGYO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:28 UTC"
+    "last_checked": "2026-09-17 14:44:54 UTC"
   },
   "TRGYO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:29 UTC"
+    "last_checked": "2026-09-17 14:44:54 UTC"
   },
   "TURSG.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:30 UTC"
+    "last_checked": "2026-09-17 14:44:55 UTC"
   },
   "ANHYT.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:31 UTC"
+    "last_checked": "2026-09-17 14:44:56 UTC"
   },
   "AGESA.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:31 UTC"
+    "last_checked": "2026-09-17 14:44:56 UTC"
   },
   "FROTO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:32 UTC"
+    "last_checked": "2026-09-17 14:44:57 UTC"
   },
   "TOASO.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:33 UTC"
+    "last_checked": "2026-09-17 14:44:58 UTC"
   },
   "SASA.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:33 UTC"
+    "last_checked": "2026-09-17 14:44:58 UTC"
   },
   "ASTOR.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:34 UTC"
+    "last_checked": "2026-09-17 14:44:59 UTC"
   },
   "MAVI.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:35 UTC"
+    "last_checked": "2026-09-17 14:45:00 UTC"
   },
   "PGSUS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:35 UTC"
+    "last_checked": "2026-09-17 14:45:00 UTC"
   },
   "TKFEN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:36 UTC"
+    "last_checked": "2026-09-17 14:45:01 UTC"
   },
   "HEKTS.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:37 UTC"
+    "last_checked": "2026-09-17 14:45:01 UTC"
   },
   "KARSN.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:38 UTC"
+    "last_checked": "2026-09-17 14:45:02 UTC"
   },
   "OTKAR.IS": {
     "volume_alert_active": false,
-    "last_checked": "2026-09-17 14:23:38 UTC"
+    "last_checked": "2026-09-17 14:45:03 UTC"
   }
 }
